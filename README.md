@@ -9,8 +9,8 @@
 ###### https://www.dictionary.com/browse/
 ###### https://www.merriam-webster.com/thesaurus/
 ###### https://www.collinsdictionary.com/dictionary/english-hindi/
-###### Google: English to Hindi <word>
-###### Google: <word> meaning
+###### Google Search: English to Hindi `<word>`
+###### Google Search: `<word>` meaning
 
 ## Pop-ups
 ![](/images/search%20popups.JPG)
